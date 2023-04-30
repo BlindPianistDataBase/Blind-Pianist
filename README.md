@@ -4,7 +4,7 @@ This is a List of Blind Pianists, their profiles, news, performances calendar, a
 
 |Name|  Genre  | Occupation(s) |  | 
 |  ----  |  ----  | ----  | ----  |
-|  Nobuyuki Tsujii  |  Classical  | Professional Pianist, Composer | [Detailed information] (#Nobuyuki Tsujii) 
+|  Nobuyuki Tsujii  |  Classical  | Professional Pianist, Composer | [Detailed information] (#Nobuyuki-Tsujii) 
 
 
 ## Nobuyuki Tsujii
