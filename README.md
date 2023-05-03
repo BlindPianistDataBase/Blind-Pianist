@@ -17,7 +17,8 @@ This is a List of blind pianists, their profiles, news, performances calendar, a
 
 [Personal Website](https://avex.jp/tsujii/tsujii-en/profile/)
 
-Perfomance Information: [Japan](https://avex.jp/tsujii/live/);[International](https://avex.jp/tsujii/tsujii-en/live/?tag=1342)
+Perfomance Information: [Japan](https://avex.jp/tsujii/live/); [International](https://avex.jp/tsujii/tsujii-en/live/?tag=1342)
+
 Nobuyuki Tsujii is a Japanese pianist and composer. He was born blind due to microphthalmia. Tsujii is a world-level recitalist and soloist. He has played in various famous concert halls. He has collaborated with top conductors and orchestras around the world. He is a co-gold medalist in the 2009 Van Cliburn International Piano Competition.
 
 ## Scholarship
