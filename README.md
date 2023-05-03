@@ -31,6 +31,9 @@ Yun-Lun Hsieh was born in 1986. He graduated from National Taipei University of 
 
 ## Helen May Martin
 [Wikipedia](https://en.wikipedia.org/wiki/Helen_May_Martin)
+
+[Entry of Helen May Martin in American Annals of the Deaf](https://www.jstor.org/stable/44391940)
+
 Helen May Martin (December 18, 1893 – June 13, 1947) was an American pianist. She was the only deaf and blind pianist in her time. She also played harp.
 
 ## Nobuyuki Tsujii
