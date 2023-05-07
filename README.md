@@ -37,7 +37,7 @@ Bernard d'Ascoli is a French Pianist. He won the First Prize in the Barcelona In
 
 [Chopin - Ballade No.4, Op.52 (Bernard d'Ascoli) at the JdP](https://www.youtube.com/watch?v=x6mCxG-SwFo)
 
-
+&nbsp;  
 
 ### Yun-Lun Hsieh
 
