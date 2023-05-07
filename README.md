@@ -25,7 +25,7 @@ This is a List of blind pianists, their profiles, news, performances calendar, a
 |  Tsujii, Nobuyuki  |  Classical  | Pianist, Composer | [Detailed Info](#Nobuyuki-Tsujii) |
 |  Ungár, Imre  (Deceased) |  Classical  | Pianist, Teacher | [Detailed Info](#Imre-Ungár) |
 
-
+&nbsp;  
 
 ### Bernard d'Ascoli
 [Wikipedia](https://en.wikipedia.org/wiki/Bernard_d'Ascoli)
@@ -39,6 +39,7 @@ Bernard d'Ascoli is a French Pianist. He won the First Prize in the Barcelona In
 
 &nbsp;  
 
+
 ### Yun-Lun Hsieh
 
 [YouTube Channel](https://youtube.com/@6891elue)
@@ -51,6 +52,7 @@ Yun-Lun Hsieh (謝昀倫) was born in 1986. He graduated from National Taipei Un
 
 [2007 謝昀倫 鋼琴獨奏會 Yun-lun Hsieh Piano Recital](https://www.youtube.com/watch?v=HEY81vQrLqY)
 
+&nbsp;  
 
 
 ### Edwin Kowalik
@@ -64,6 +66,7 @@ Edwin Kowalik was born September 1, 1928 in Chropaczow and died May 20, 1997 in 
 
 [Brahms Waltz in A flat major Walc As-dur Edwin Kowalik 1978](https://www.youtube.com/watch?v=aqtQHzE_FKE)
 
+&nbsp;  
 
 
 ### Helen May Martin
@@ -73,6 +76,7 @@ Edwin Kowalik was born September 1, 1928 in Chropaczow and died May 20, 1997 in 
 
 Helen May Martin (December 18, 1893 – June 13, 1947) was an American pianist. She was the only deaf and blind pianist in her time. She also played harp.
 
+&nbsp;  
 
 
 ### Nobuyuki Tsujii
@@ -94,6 +98,7 @@ Nobuyuki Tsujii is a Japanese pianist and composer. He was born blind due to mic
 
 [Nobuyuki Tsujii - La Campanella - BBC Proms 2013 　辻井伸行さん　プロムス2013　アンコール](https://youtu.be/wbAoeZZvntk)
 
+&nbsp;  
 
 
 ### Imre Ungár
@@ -107,7 +112,14 @@ Imre Ungár is a Hungarian pianist. He is a second prize winner in the II Intern
 
 [Imre Ungár plays Chopin - 24 Preludes, Op. 28](https://www.youtube.com/watch?v=X8_Xj6te_Gg)
 
+&nbsp;  
 
 
 
 ## Scholarship
+
+### Honisch, Stefan Sunandan
+
+Different eyes, ears, and bodies : pianist Nobuyuki Tsujii and the education of the sensorium through musical performance[Link](https://open.library.ubc.ca/soa/cIRcle/collections/ubctheses/24/items/1.0224502)<br>related artist: [Nobuyuki Tsujii](#Nobuyuki-Tsujii)
+
+Moving Experiences: Blindness and the Performing Self in Imre Ungár’s Chopin[Link](https://academic.oup.com/edited-volume/34496/chapter-abstract/292692940?redirectedFrom=fulltext)<br>related artist: [Imre Ungár](#Imre-Ungár) 
